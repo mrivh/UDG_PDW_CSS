@@ -1,0 +1,23 @@
+@media screen and (max-width: 600px){
+    
+   
+    /*Formulario*/
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .container {
+        background-color: #FF6933;
+    }
+
+    /*Pie de página*/
+
+    .footer-style{
+        font-size: 4vw;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+}
